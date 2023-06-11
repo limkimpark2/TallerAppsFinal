@@ -1,0 +1,31 @@
+{
+  "name": "realtimeappvue2",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@socket.io/admin-ui": "^0.5.1",
+    "bootstrap": "4.6.2",
+    "bootstrap-vue": "2.23.1",
+    "chart.js": "^4.3.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "socket.io": "^4.6.2",
+    "socket.io-client": "^4.6.2",
+    "vite-plugin-vue2": "^2.0.3",
+    "vue": "2.7.14",
+    "vue-chartjs": "^5.2.0",
+    "vue-router": "3.6.5",
+    "vuex": "3.6.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "dotenv": "^16.1.4",
+    "vite": "^4.3.9",
+    "vue-template-compiler": "2.7.14"
+  }
+}
